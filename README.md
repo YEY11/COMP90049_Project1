@@ -1,7 +1,7 @@
 ### COMP90049 Project 1: Lexical Normalization Based on Tweets
 This is the Project 1 for COMP90049 (Knowledge Technologies) from the University of Melbourne.
 
-This project implements a misspelling correction system for lexical normalisation task based on three different approximate string matching algorithms in Python, including Global Edit Distance, N-grams and Soundex. For more details, please check the [project report](https://github.com/Andy-TK/COMP90049_Project1_Lexical_Normalization_Based_on_Tweets/blob/master/COMP90049%20Project%201%20Report.pdf).
+This project implements a misspelling correction system for lexical normalisation task based on three different approximate string matching algorithms in Python, including Global Edit Distance, N-grams and Soundex. For more details, please check the [project specifications](https://github.com/Andy-TK/COMP90049_Project1/blob/master/Project%20specifications.pdf) and [project report](https://github.com/Andy-TK/COMP90049_Project1_Lexical_Normalization_Based_on_Tweets/blob/master/COMP90049%20Project%201%20Report.pdf).
 
 #### Python Library Sources:
 * Global Edit Distance  
